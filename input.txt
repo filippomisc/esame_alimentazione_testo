@@ -1,0 +1,8 @@
+A;Zucchine;2;13;1;0
+A;Peperoni;5;22;1;0
+A;Burro;750;1;1;80
+AC;Pan di stelle;480;7;65;20;7
+R;Ratatouille;Mischiare le verdure e condire con il burro;4
+IR;Ratatouille;Zucchine;250
+IR;Ratatouille;Peperoni;100
+IR;Ratatouille;Burro;50
